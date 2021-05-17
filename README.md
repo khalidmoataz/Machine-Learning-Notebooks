@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="https://github.com/khalidmoataz/Machine-Learning-Notebooks/tree/main/Classfication">Classfication</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
